@@ -1,0 +1,8 @@
+5
+VVVVV
+VVVVV
+VVVVV
+VVVVV
+VVVVV
+
+resposta-> 1    5

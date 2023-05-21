@@ -1,0 +1,6 @@
+3
+VVV
+VVV
+VVV
+
+resposta-> 1    3

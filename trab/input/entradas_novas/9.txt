@@ -1,0 +1,9 @@
+6
+VFFFFV
+FVVVVF
+FVVVVF
+FVVVVF
+FVVVVF
+VFFFFV
+
+resposta-> 2    2 4
