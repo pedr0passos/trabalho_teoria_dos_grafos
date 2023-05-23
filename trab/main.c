@@ -14,7 +14,7 @@ void verifica (int n, int numero_familias, int *total_familias, int *graus, int 
 int main(){
 
     int n;
-    FILE *input = fopen("input/entradas_novas/11.txt","r");
+    FILE *input = fopen("input/entradas_novas/12.txt","r");
     fscanf(input,"%d\n",&n);
     
     char matriz[n][n];
